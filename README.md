@@ -21,8 +21,7 @@ We plan to implement an efficient algorithm to count the number of triangles par
 
 ## Problem Statement
 
-Given an undirected simple graph, we need to find how many triangles it can have. For example, the graph below has 2 triangles in it.
-{IMAGE}
+Given an undirected simple graph, we need to find how many triangles it can have.
 
 ## Serial Implementation
 
