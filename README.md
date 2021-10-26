@@ -37,7 +37,7 @@ A triangle is a cyclic path of length three, i.e., begins and ends at the same v
 ` nvcc serial.cu`
 `a.exe ./sample_graph.txt`
 
-##Parallel Implementation
+## Parallel Implementation
 It has never been simple to solve the problem of counting the number of triangles, moreover not so exciting doing it in O(n^3) and O(3xn) space. There are many implementations available using techniques such as map-reduce, GraphLab, etc.
 
 Our reference paper claims to have a very efficient implementation, using subgraph matching to a triangle pattern, in recent times and we will try to have our own implementation of their algorithm and beat their performance as well as the similar previous years 15-418 projects.
