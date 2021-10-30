@@ -1,3 +1,8 @@
+/*
+ * 2019074 Jayraj Rathod
+ * 2019203 Aniket Choudhari
+ * 2019200 Aman Kumar
+ */
 #ifndef __CUDA_RENDERER_H__
 #define __CUDA_RENDERER_H__
 
