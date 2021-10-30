@@ -1,8 +1,9 @@
 /*
  * Triangle counter without workload balancing
  *
- * @author: Manish Jain
- * @author: Vashishtha Adtani
+ * 2019074 Jayraj Rathod
+ * 2019203 Aniket Choudhari
+ * 2019200 Aman Kumar
  */
 
 #include <iostream>
